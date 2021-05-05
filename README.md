@@ -4,7 +4,7 @@ Take Home Assessment
 
 How to run the Code:
 
-Download all the files uploaded.Use the respective Test files for each of the problems. For example, for leastFactorial problem leastFactorialTest is the corresponding test file. Run the test file , in windows we run it using the following  command in the command prompt: python3 leastFactorialTest.py 
+Use the respective Test files for each of the problems. For example, for leastFactorial problem leastFactorialTest is the corresponding test file. Run the test file , in windows we run it using the following  command in the command prompt: python3 leastFactorialTest.py 
 If all the testcases are passed in the testcase file OK is printed. In the similar way, we run the test files of other problems and check if it passes all the testcases.
 
 
